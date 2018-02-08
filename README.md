@@ -25,7 +25,10 @@ Answer the questions in the exercises here. Push your answer and code to Github 
 	Yes.
 
 * Can you add a duplicate "cat" and "dog" to set?
+	No.
 	
 * What is the result when you use TreeSet instead of HashSet?
+	the TreeSet has order by alphabet.
 
 * Could we make `setExplorer` work with either Set or List?  How?
+	Yes, by use the Collecttion.
